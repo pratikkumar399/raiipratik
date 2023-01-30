@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "Hi",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,9 +8,9 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Pratik Rai",
   "subtitle": {
-    "prefix": "I do all the setup ",
+    "prefix": "I am a frontend developer",
     "highlight": "for you",
     "suffix": "."
   },
