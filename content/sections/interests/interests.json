@@ -1,14 +1,14 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "CPP",
       "image": {
         "src": "../../images/joystick.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "JavaScript",
       "image": {
         "src": "../../images/notebook.png",
         "alt": ""
@@ -22,21 +22,21 @@
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "NodeJS",
       "image": {
         "src": "../../images/medium.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "Sql",
       "image": {
         "src": "../../images/gem-stone.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Problem Solving",
       "image": {
         "src": "../../images/mobile-phone.png",
         "alt": ""
@@ -50,7 +50,7 @@
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "ReactJs",
       "image": {
         "src": "../../images/high-voltage.png",
         "alt": ""

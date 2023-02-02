@@ -11,12 +11,12 @@
   "title": "I'm Pratik Rai",
   "subtitle": {
     "prefix": "I am a frontend developer",
-    "highlight": "for you",
+    "highlight": " for you",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Let's connect on various platforms",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "showIcons": true
   }
 }
