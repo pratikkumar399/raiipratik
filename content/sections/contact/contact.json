@@ -1,13 +1,13 @@
 {
   "name": "Portfolio Website of Pratik Rai",
   "email": "pratikkumar399@gmail.com",
-  "description": "Contact me if you want to connect with me",
+  "description": "You can connect to me through these platforms",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/mobile-phone.jpg",
+    "alt": "Portfolio"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Hashnode", "Github", "Mail"],
     "showIcons": true
   }
 }

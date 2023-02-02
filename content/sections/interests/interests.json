@@ -3,14 +3,14 @@
     {
       "label": "CPP",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/cpp.png",
         "alt": ""
       }
     },
     {
       "label": "JavaScript",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/js.png",
         "alt": ""
       }
     },
@@ -24,7 +24,7 @@
     {
       "label": "NodeJS",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/node.png",
         "alt": ""
       }
     },
@@ -52,7 +52,7 @@
     {
       "label": "ReactJs",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     }

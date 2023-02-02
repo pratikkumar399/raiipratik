@@ -16,7 +16,7 @@
   },
   "description": "Let's connect on various platforms",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Hashnode", "Github", "Mail"],
     "showIcons": true
   }
 }
